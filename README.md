@@ -23,11 +23,17 @@
 * [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 
 ### Ethereum Improvement Processes (EIPs)
+* [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
+* [EIP-5003: Insert Code into EOAs with AUTHUSURP](https://eips.ethereum.org/EIPS/eip-5003)
 * [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337)
+
+### EIP Articles & Discussions
 * [Account Abstraction EIP:2938 by Status](https://our.status.im/account-abstraction-eip-2938/)
-* [ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+* [ERC 4337: account abstraction without Ethereum protocol changes by Vitalik](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+* [We should be moving beyond EOAs, not enshrining them even further (EIP 3074-related)](https://ethereum-magicians.org/t/we-should-be-moving-beyond-eoas-not-enshrining-them-even-further-eip-3074-related/6538)
 
 ### Current Landscape / Thoughts / Threads
+* [A brief note on the future of accounts](https://ethresear.ch/t/a-brief-note-on-the-future-of-accounts/12395)
 * [The current state of Account Abstraction](https://mirror.xyz/plusminushalf.eth/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk)
 * [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
 * [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
@@ -35,7 +41,13 @@
 * [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
 * [Starkware Discussion on AA P1](https://community.starknet.io/t/starknet-account-abstraction-model-part-1/781)
 * [Starkware Discussion on AA P2](https://community.starknet.io/t/starknet-account-abstraction-model-part-2/839)
+* [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
+
+### Applications
 * [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
+
+### Twitter Threads
+* [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728)
 
 # Videos
 
@@ -45,23 +57,53 @@
 * [StarkNetCC panel on AA with Argent, Braavos, Ledger, briq and Realms](https://www.youtube.com/watch?v=sbbVCAB--i4&t=20741s)
 * [Starkware: Account Abstraction (Argent X)](https://www.slideshare.net/TinaBregovi/starkware-account-abstraction?next_slideshow=251274463)
 
+#### Devcon Bogotá
+* [Why Account Abstraction is a Game-Changer for Dapps | Devcon Bogotá](https://youtu.be/OwppworJGzs)
+* [Account Abstraction Panel | Devcon Bogotá](https://youtu.be/WsZBymiyT-8)
+
+
 # Code
 
-### Libaries
-- ex
-### Code Implementations
+### SDK & Libaries
 
+- [0xpass/0xpass](https://github.com/0xpass/0xpass)
+- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
+- [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
+- [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
+- [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
+
+### Smart Contracts (EVM)
+
+* [Biconomy](https://github.com/bcnmy/scw-contracts)
+* [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
+* [Stackup](https://github.com/stackup-wallet/stackup)
+
+### Bundlers
+* [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler)
+* [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
+* [Python Implementation](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC)
+
+### Starknet
+* [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts)
 * [Argent account contracts on Starknet](https://github.com/argentlabs/argent-contracts-starknet)
-* [OpenZepellin account contracts on Starknet](https://github.com/OpenZeppelin/cairo-contracts/blob/main/docs/Account.md)
 * [Multisig wallet on StarkNet](https://github.com/eqlabs/starknet-multisig/)
 * [Another Multisig wallet on StarkNet](https://github.com/sambarnes/cairo-multisig)
 
 ### Audits
-
 * [EIP-4337 – Ethereum Account Abstraction Audit](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
 
-# Projects using AA
+# Projects
 
-1.  Argent
-2.  [zkSync](https://zksync.io/)
-3.  
+1.  [0xpass](https://0xpass.io/)
+2.  [Stackup](https://stackup.sh/)
+3.  [Candide](https://www.candidewallet.com/)
+4.  [Fluvi](https://fluvi.io/)
+5.  [Unipass](https://www.unipass.id/)
+6.  [Argent](https://www.argent.xyz/)
+7.  [zkSync](https://zksync.io/)
+
+
+### Archived Articles
+
+* [Meta Transactions x Account Abstraction](https://hackmd.io/@matt/S1Jg85588)
+* [DoS Vectors in Account Abstraction (AA) or Validation Generalization, a Case Study in Geth](https://ethresear.ch/t/dos-vectors-in-account-abstraction-aa-or-validation-generalization-a-case-study-in-geth/7937)
