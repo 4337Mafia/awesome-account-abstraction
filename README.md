@@ -49,13 +49,14 @@
 * [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
 
 ### Twitter Threads
-* [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728)
-* [🧵Thread: The inevitable adoption of account abstraction by @Crypto__Jesus_](https://twitter.com/Crypto__Jesus_/status/1606307436406636547)
-* [why hasn't crypto taken off? by @divine_economy](https://twitter.com/divine_economy/status/1605230807299543041)
-* [The concept and dynamics of Abstraction Account(AA) development by @0xYolo](https://twitter.com/0xYolo/status/1584447321147789317)
-* [EIP-4337 Account Abstraction by @_nishil_](https://twitter.com/_nishil_/status/1579550419944058880)
-* [How to try to scam your scammer by @0x_ARK](https://twitter.com/0x_ARK/status/1553395019884535809)
-* [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵 by @Mulan0x](https://twitter.com/Mulan0x/status/1583813663986577408)
+* [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728) by @zksync
+* [🧵Thread: The inevitable adoption of account abstraction ](https://twitter.com/Crypto__Jesus_/status/1606307436406636547) by @Crypto__Jesus_
+* [why hasn't crypto taken off?](https://twitter.com/divine_economy/status/1605230807299543041) by @divine_economy
+* [The concept and dynamics of Abstraction Account(AA) development](https://twitter.com/0xYolo/status/1584447321147789317) by @0xYolo
+* [EIP-4337 Account Abstraction](https://twitter.com/_nishil_/status/1579550419944058880) by @_nishil_
+* [How to try to scam your scammer](https://twitter.com/0x_ARK/status/1553395019884535809) by @0x_ARK
+* [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
+* [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
   
 # Videos
 
