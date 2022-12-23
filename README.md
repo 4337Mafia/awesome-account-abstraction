@@ -47,6 +47,7 @@
 
 ### Applications
 * [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
+* [What Can You Do with Account Abstraction?](https://blog.zerodev.app/what-can-you-do-with-account-abstraction/)
 
 ### Twitter Threads
 * [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728) by @zksync
@@ -79,20 +80,23 @@
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
-- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
+- [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
+- [zerodevapp/core](https://github.com/zerodevapp/core)
 
 ### Smart Contracts (EVM)
 
 * [Biconomy](https://github.com/bcnmy/scw-contracts)
 * [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
+* [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 * [Stackup](https://github.com/stackup-wallet/stackup)
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 
 ### Bundlers
 * [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
-* [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 * [Python Implementation](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC) by Candide
+* [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
+* [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 
 ### Starknet
 * [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts)
@@ -119,7 +123,8 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 10. [Stackup](https://stackup.sh/)
 11. [Squence](https://sequence.app/)
 12. [Unipass](https://www.unipass.id/)
-13. [zkSync](https://zksync.io/)
+13. [ZeroDev](http://zerodev.app/)
+14. [zkSync](https://zksync.io/)
 
 
 ### Archived Articles
