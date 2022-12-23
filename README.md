@@ -50,6 +50,12 @@
 ### Twitter Threads
 * [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728)
 * [🧵Thread: The inevitable adoption of account abstraction by @Crypto__Jesus_](https://twitter.com/Crypto__Jesus_/status/1606307436406636547)
+* [why hasn't crypto taken off? by @divine_economy](https://twitter.com/divine_economy/status/1605230807299543041)
+* [The concept and dynamics of Abstraction Account(AA) development by @0xYolo](https://twitter.com/0xYolo/status/1584447321147789317)
+* [EIP-4337 Account Abstraction by @_nishil_](https://twitter.com/_nishil_/status/1579550419944058880)
+* [How to try to scam your scammer by @0x_ARK](https://twitter.com/0x_ARK/status/1553395019884535809)
+* [Why is account abstraction a game changer for crypto's adoption?](https://twitter.com/hoprnet/status/1585285860450353152)
+* [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵 by @Mulan0x](https://twitter.com/Mulan0x/status/1583813663986577408)
   
 # Videos
 
