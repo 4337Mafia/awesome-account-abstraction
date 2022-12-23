@@ -106,17 +106,18 @@
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
-1.  [0xpass](https://0xpass.io/)
+1.  [0xPass](https://0xpass.io/)
 2.  [Argent](https://www.argent.xyz/)
 2.  [Biconomy](https://www.biconomy.io/)
 3.  [Candide](https://www.candidewallet.com/)
 5.  [Fluvi](https://fluvi.io/)
-6.  [Solon Network](https://www.solon.network/)
-6.  [Soul Wallet](https://twitter.com/soulwallet_eth)
-7.  [Stackup](https://stackup.sh/)
-8.  [Squence](https://sequence.app/)
-9.  [Unipass](https://www.unipass.id/)
-10. [zkSync](https://zksync.io/)
+6.  [Openfort](openfort.xyz)
+7.  [Solon Network](https://www.solon.network/)
+8.  [Soul Wallet](https://twitter.com/soulwallet_eth)
+9.  [Stackup](https://stackup.sh/)
+10. [Squence](https://sequence.app/)
+11. [Unipass](https://www.unipass.id/)
+12. [zkSync](https://zksync.io/)
 
 
 ### Archived Articles
