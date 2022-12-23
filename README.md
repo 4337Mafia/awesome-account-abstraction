@@ -54,7 +54,6 @@
 * [The concept and dynamics of Abstraction Account(AA) development by @0xYolo](https://twitter.com/0xYolo/status/1584447321147789317)
 * [EIP-4337 Account Abstraction by @_nishil_](https://twitter.com/_nishil_/status/1579550419944058880)
 * [How to try to scam your scammer by @0x_ARK](https://twitter.com/0x_ARK/status/1553395019884535809)
-* [Why is account abstraction a game changer for crypto's adoption?](https://twitter.com/hoprnet/status/1585285860450353152)
 * [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵 by @Mulan0x](https://twitter.com/Mulan0x/status/1583813663986577408)
   
 # Videos
@@ -79,6 +78,7 @@
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
+- [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
 
 ### Smart Contracts (EVM)
 
@@ -88,9 +88,9 @@
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 
 ### Bundlers
-* [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler)
+* [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
 * [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
-* [Python Implementation](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC)
+* [Python Implementation](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC) by Candide
 
 ### Starknet
 * [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts)
