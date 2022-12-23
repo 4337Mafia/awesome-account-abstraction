@@ -34,21 +34,23 @@
 
 ### Current Landscape / Thoughts / Threads
 * [A brief note on the future of accounts](https://ethresear.ch/t/a-brief-note-on-the-future-of-accounts/12395)
-* [The current state of Account Abstraction](https://mirror.xyz/plusminushalf.eth/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk)
-* [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
 * [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
 * [Limitations of AA by Pete J Kim P1](https://twitter.com/petejkim/status/1529604590882234368)
 * [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
+* [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
+* [The current state of Account Abstraction](https://mirror.xyz/plusminushalf.eth/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk)
 * [Starkware Discussion on AA P1](https://community.starknet.io/t/starknet-account-abstraction-model-part-1/781)
 * [Starkware Discussion on AA P2](https://community.starknet.io/t/starknet-account-abstraction-model-part-2/839)
 * [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
+* [Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 
 ### Applications
 * [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
 
 ### Twitter Threads
 * [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728)
-
+* [🧵Thread: The inevitable adoption of account abstraction by @Crypto__Jesus_](https://twitter.com/Crypto__Jesus_/status/1606307436406636547)
+  
 # Videos
 
 * [ERC 4337: Account Abstraction via Alternative Mempool](https://www.youtube.com/watch?v=eyT6WzJmWyc&ab_channel=ETHGlobal)
@@ -67,16 +69,17 @@
 ### SDK & Libaries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
-- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
+- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
 
 ### Smart Contracts (EVM)
 
 * [Biconomy](https://github.com/bcnmy/scw-contracts)
 * [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
 * [Stackup](https://github.com/stackup-wallet/stackup)
+* [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 
 ### Bundlers
 * [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler)
@@ -94,13 +97,19 @@
 
 # Projects
 
+Projects using Account Abstraction (or variations of AA) in alphabetical order.
+
 1.  [0xpass](https://0xpass.io/)
-2.  [Stackup](https://stackup.sh/)
+2.  [Argent](https://www.argent.xyz/)
+2.  [Biconomy](https://www.biconomy.io/)
 3.  [Candide](https://www.candidewallet.com/)
-4.  [Fluvi](https://fluvi.io/)
-5.  [Unipass](https://www.unipass.id/)
-6.  [Argent](https://www.argent.xyz/)
-7.  [zkSync](https://zksync.io/)
+5.  [Fluvi](https://fluvi.io/)
+6.  [Solon Network](https://www.solon.network/)
+6.  [Soul Wallet](https://twitter.com/soulwallet_eth)
+7.  [Stackup](https://stackup.sh/)
+8.  [Squence](https://sequence.app/)
+9.  [Unipass](https://www.unipass.id/)
+10. [zkSync](https://zksync.io/)
 
 
 ### Archived Articles
