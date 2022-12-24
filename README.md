@@ -83,6 +83,7 @@
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
 - [zerodevapp/core](https://github.com/zerodevapp/core)
+- [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
 
 ### Smart Contracts (EVM)
 
@@ -91,6 +92,7 @@
 * [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 * [Stackup](https://github.com/stackup-wallet/stackup)
 * [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
+* [Etherspot](https://github.com/etherspot/etherspot-contracts/)
 
 ### Bundlers
 * [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
@@ -115,16 +117,17 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 2.  [Argent](https://www.argent.xyz/)
 3.  [Biconomy](https://www.biconomy.io/)
 4.  [Candide](https://www.candidewallet.com/)
-5.  [Fluvi](https://fluvi.io/)
-6.  [Openfort](openfort.xyz)
-7.  [Peaze](https://www.peaze.com/)
-8.  [Solon Network](https://www.solon.network/)
-9.  [Soul Wallet](https://twitter.com/soulwallet_eth)
-10. [Stackup](https://stackup.sh/)
-11. [Squence](https://sequence.app/)
-12. [Unipass](https://www.unipass.id/)
-13. [ZeroDev](http://zerodev.app/)
-14. [zkSync](https://zksync.io/)
+5.  [Etherspot](https://etherspot.io)
+6.  [Fluvi](https://fluvi.io/)
+7.  [Openfort](openfort.xyz)
+8.  [Peaze](https://www.peaze.com/)
+9.  [Solon Network](https://www.solon.network/)
+10.  [Soul Wallet](https://twitter.com/soulwallet_eth)
+11. [Stackup](https://stackup.sh/)
+12. [Squence](https://sequence.app/)
+13. [Unipass](https://www.unipass.id/)
+14. [ZeroDev](http://zerodev.app/)
+15. [zkSync](https://zksync.io/)
 
 
 ### Archived Articles
