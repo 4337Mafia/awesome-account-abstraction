@@ -113,21 +113,21 @@
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
-1.  [0xPass](https://0xpass.io/)
-2.  [Argent](https://www.argent.xyz/)
-3.  [Biconomy](https://www.biconomy.io/)
-4.  [Candide](https://www.candidewallet.com/)
-5.  [Etherspot](https://etherspot.io)
-6.  [Fluvi](https://fluvi.io/)
-7.  [Openfort](openfort.xyz)
-8.  [Peaze](https://www.peaze.com/)
-9.  [Solon Network](https://www.solon.network/)
-10.  [Soul Wallet](https://twitter.com/soulwallet_eth)
-11. [Stackup](https://stackup.sh/)
-12. [Squence](https://sequence.app/)
-13. [Unipass](https://www.unipass.id/)
-14. [ZeroDev](http://zerodev.app/)
-15. [zkSync](https://zksync.io/)
+* [0xPass](https://0xpass.io/)
+* [Argent](https://www.argent.xyz/)
+* [Biconomy](https://www.biconomy.io/)
+* [Candide](https://www.candidewallet.com/)
+* [Etherspot](https://etherspot.io)
+* [Fluvi](https://fluvi.io/)
+* [Openfort](openfort.xyz)
+* [Peaze](https://www.peaze.com/)
+* [Solon Network](https://www.solon.network/)
+* [Soul Wallet](https://twitter.com/soulwallet_eth)
+* [Stackup](https://stackup.sh/)
+* [Squence](https://sequence.app/)
+* [Unipass](https://www.unipass.id/)
+* [ZeroDev](http://zerodev.app/)
+* [zkSync](https://zksync.io/)
 
 
 ### Archived Articles
