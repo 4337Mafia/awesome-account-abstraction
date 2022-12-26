@@ -119,7 +119,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 * [Candide](https://www.candidewallet.com/)
 * [Etherspot](https://etherspot.io)
 * [Fluvi](https://fluvi.io/)
-* [Openfort](openfort.xyz)
+* [Openfort](https://openfort.xyz)
 * [Peaze](https://www.peaze.com/)
 * [Solon Network](https://www.solon.network/)
 * [Soul Wallet](https://twitter.com/soulwallet_eth)
