@@ -1,7 +1,6 @@
 name: Link Checker
 
 on:
-  push:
   repository_dispatch:
   workflow_dispatch:
   schedule:
