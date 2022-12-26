@@ -21,6 +21,7 @@
 ### Introduction to Account Abstraction (AA)
 * [The History and Future of Account Abstraction by Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
 * [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
+* [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 
 ### Ethereum Improvement Processes (EIPs)
 * [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
