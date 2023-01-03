@@ -74,6 +74,7 @@
 - [StarkNetCC panel on AA with Argent, Braavos, Ledger, briq and Realms](https://www.youtube.com/watch?v=sbbVCAB--i4&t=20741s)
 - [Starkware: Account Abstraction (Argent X)](https://www.slideshare.net/TinaBregovi/starkware-account-abstraction?next_slideshow=251274463)
 - [What is Account Abstraction?](https://www.youtube.com/watch?v=wnh8Ea6aYM8&)
+- [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
 
 #### Devcon Bogotá
 
