@@ -23,6 +23,7 @@
 - [The History and Future of Account Abstraction by Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
 - [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
+- [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 
 ### Ethereum Improvement Processes (EIPs)
 
