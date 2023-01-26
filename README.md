@@ -50,7 +50,6 @@
 - [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 - [Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
-- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
 
 ### Applications
 
@@ -67,6 +66,7 @@
 - [How to try to scam your scammer](https://twitter.com/0x_ARK/status/1553395019884535809) by @0x_ARK
 - [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
 - [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
+- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
 
 # Videos
 
