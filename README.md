@@ -66,6 +66,7 @@
 - [How to try to scam your scammer](https://twitter.com/0x_ARK/status/1553395019884535809) by @0x_ARK
 - [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
 - [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
+- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
 
 # Videos
 
