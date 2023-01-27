@@ -100,7 +100,7 @@
 ### Smart Contracts (EVM)
 
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
-- [BLS Wallet](https://github.com/web3well/bls-wallet/contracts)
+- [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Stackup](https://github.com/stackup-wallet/stackup)
