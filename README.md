@@ -132,7 +132,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [0xPass](https://0xpass.io/)
 - [Argent](https://www.argent.xyz/)
 - [Biconomy](https://www.biconomy.io/)
-- [BLS Wallet](https://www.blswallet.org/)
+- [BLS Wallet](https://blswallet.org/)
 - [Candide](https://www.candidewallet.com/)
 - [Etherspot](https://etherspot.io)
 - [Fluvi](https://fluvi.io/)
