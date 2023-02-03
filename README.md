@@ -106,6 +106,7 @@
 - [Stackup](https://github.com/stackup-wallet/stackup)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Etherspot](https://github.com/etherspot/etherspot-contracts/)
+- [Safe](https://github.com/safe-global/safe-contracts/)
 
 ### Bundlers
 
@@ -138,6 +139,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Fluvi](https://fluvi.io/)
 - [Openfort](https://openfort.xyz)
 - [Peaze](https://www.peaze.com/)
+- [Safe](https://safe.global/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
