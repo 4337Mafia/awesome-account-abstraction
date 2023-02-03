@@ -96,6 +96,7 @@
 - [zerodevapp/core](https://github.com/zerodevapp/core)
 - [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
+- [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 
 ### Smart Contracts (EVM)
 
