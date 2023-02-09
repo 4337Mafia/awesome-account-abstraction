@@ -100,6 +100,7 @@
 
 ### Smart Contracts (EVM)
 
+- [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
