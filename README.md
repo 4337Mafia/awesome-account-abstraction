@@ -150,6 +150,10 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
 
+# Explorers
+
+- [Jiffyscan](https://www.jiffyscan.xyz)
+
 ### Archived Articles
 
 - [Meta Transactions x Account Abstraction](https://hackmd.io/@matt/S1Jg85588)
