@@ -150,7 +150,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
 
-# Explorers
+### Explorers
 
 - [Jiffyscan](https://www.jiffyscan.xyz)
 
