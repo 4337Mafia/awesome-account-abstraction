@@ -41,6 +41,7 @@
 
 - [A brief note on the future of accounts](https://ethresear.ch/t/a-brief-note-on-the-future-of-accounts/12395)
 - [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
+- [Account Abstraction is NOT coming](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI)
 - [Limitations of AA by Pete J Kim P1](https://twitter.com/petejkim/status/1529604590882234368)
 - [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
 - [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
