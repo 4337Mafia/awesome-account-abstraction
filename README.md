@@ -53,6 +53,7 @@
 - [Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
+- [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 
 ### Applications
 
@@ -173,6 +174,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 ### Discord
 
 - [Infinitism](https://discord.gg/59T8mSxwb3)
+- [Web3Well (blswallet integrations)](https://discord.com/invite/hGDmAhcRyz)
 
 ### Research and technical forums
 
