@@ -169,6 +169,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Twitter
 
+- [Official Twitter account for ERC-4337 Account Abstraction](https://twitter.com/erc4337)
 - [4337Mafia](https://twitter.com/4337Mafia)
 
 ### Discord
