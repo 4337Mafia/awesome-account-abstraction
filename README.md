@@ -20,6 +20,7 @@
 
 ### Introduction to Account Abstraction (AA)
 
+- [EIP 4337 website from Infinitism](https://eip4337.com/en/latest/)
 - [The History and Future of Account Abstraction by Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
 - [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
@@ -51,6 +52,8 @@
 - [Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)
 - [Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
+- [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
+- [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 
 ### Applications
 
@@ -68,6 +71,7 @@
 - [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
 - [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
 - [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
+- [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
 
 # Videos
 
@@ -156,7 +160,29 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [Jiffyscan](https://www.jiffyscan.xyz)
 
-### Archived Articles
+# Communities
+
+### Telegram
+
+- 4337 mafia (product and application)
+- 4337 fan club (EIP, research, security)
+
+### Twitter
+
+- [Official Twitter account for ERC-4337 Account Abstraction](https://twitter.com/erc4337)
+- [4337Mafia](https://twitter.com/4337Mafia)
+
+### Discord
+
+- [Infinitism](https://discord.gg/59T8mSxwb3)
+- [Web3Well (blswallet integrations)](https://discord.com/invite/hGDmAhcRyz)
+
+### Research and technical forums
+
+- [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160)
+- [Ethereum StackExchange (#smart-contract-wallets)](https://ethereum.stackexchange.com/questions/tagged/smart-contract-wallets)
+
+# Archived Articles
 
 - [Meta Transactions x Account Abstraction](https://hackmd.io/@matt/S1Jg85588)
 - [DoS Vectors in Account Abstraction (AA) or Validation Generalization, a Case Study in Geth](https://ethresear.ch/t/dos-vectors-in-account-abstraction-aa-or-validation-generalization-a-case-study-in-geth/7937)
