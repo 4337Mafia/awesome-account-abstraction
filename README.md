@@ -110,10 +110,10 @@
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
+- [Safe](https://github.com/safe-global/safe-contracts/)
 - [Stackup](https://github.com/stackup-wallet/stackup)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Etherspot](https://github.com/etherspot/etherspot-contracts/)
-- [Safe](https://github.com/safe-global/safe-contracts/)
 
 ### Bundlers
 
