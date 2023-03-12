@@ -132,7 +132,8 @@
 
 ### Audits
 
-- [EIP-4337 – Ethereum Account Abstraction Audit](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
+- [EIP-4337 – Ethereum Account Abstraction Audit - Part 1](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
+- [EIP-4337 – Ethereum Account Abstraction Audit - Part 2](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)
 
 # Projects
 
