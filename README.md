@@ -190,7 +190,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Newsletters
 
-- [Etherything About Account Abstraction](https://medium.com/etherspot/search?q=Everything+About+Account) by Etherspot
+- [Everything About Account Abstraction](https://medium.com/etherspot/search?q=Everything+About+Account) by Etherspot
 
 ### Research and technical forums
 
