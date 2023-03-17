@@ -135,6 +135,10 @@
 - [EIP-4337 – Ethereum Account Abstraction Audit - Part 1](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
 - [EIP-4337 – Ethereum Account Abstraction Audit - Part 2](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)
 
+### RPC Providers
+
+- [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers)
+
 # Projects
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
@@ -161,6 +165,12 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [Jiffyscan](https://www.jiffyscan.xyz)
 
+### Dune dashboards
+
+- [erc-4337](https://dune.com/johnrising/erc-4337) by John (johnrising)
+- [account-abstraction](https://dune.com/niftytable/account-abstraction) by Kofi (niftytable)
+- [erc4337-mainnet](https://dune.com/suneal_eth/erc4337-mainnet) by Suneal (suneal_eth)
+
 # Communities
 
 ### Telegram
@@ -177,6 +187,10 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [Infinitism](https://discord.gg/59T8mSxwb3)
 - [Web3Well (blswallet integrations)](https://discord.com/invite/hGDmAhcRyz)
+
+### Newsletters
+
+- [Everything About Account Abstraction](https://medium.com/etherspot/search?q=Everything+About+Account) by Etherspot
 
 ### Research and technical forums
 
