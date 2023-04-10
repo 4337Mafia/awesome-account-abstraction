@@ -116,6 +116,7 @@
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Etherspot](https://github.com/etherspot/etherspot-contracts/)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
+- [TrueWallet](https://github.com/TrueWallet/contracts)
 
 ### Bundlers
 
@@ -164,6 +165,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
+- [TrueWallet](https://true-wallet.io/)
 
 ### Explorers
 
