@@ -109,12 +109,13 @@
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
+- [Etherspot](https://github.com/etherspot/etherspot-contracts/)
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Stackup](https://github.com/stackup-wallet/stackup)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
-- [Etherspot](https://github.com/etherspot/etherspot-contracts/)
+- [TrueWallet](https://github.com/TrueWallet/contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 
 ### Bundlers
@@ -161,6 +162,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
 - [Squence](https://sequence.app/)
+- [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
