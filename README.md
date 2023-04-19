@@ -28,21 +28,25 @@
 
 ### Ethereum Improvement Processes (EIPs)
 
-- [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
-- [EIP-5003: Insert Code into EOAs with AUTHUSURP](https://eips.ethereum.org/EIPS/eip-5003)
 - [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337)
+- [EIP-5003: Insert Code into EOAs with AUTHUSURP](https://eips.ethereum.org/EIPS/eip-5003)
+- [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
+- [EIP-6492: Signature Validation for Predeploy Contracts](https://eips.ethereum.org/EIPS/eip-6492)
+
 
 ### EIP Articles & Discussions
 
 - [Account Abstraction EIP:2938 by Status](https://our.status.im/account-abstraction-eip-2938/)
 - [ERC 4337: account abstraction without Ethereum protocol changes by Vitalik](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 - [We should be moving beyond EOAs, not enshrining them even further (EIP 3074-related)](https://ethereum-magicians.org/t/we-should-be-moving-beyond-eoas-not-enshrining-them-even-further-eip-3074-related/6538)
+- [What is ERC-6492 and why it’s important for Account Abstraction](https://docs.zerodev.app/blog/erc-6492-and-why-its-important-for-aa)
 
 ### Current Landscape / Thoughts / Threads
 
 - [A brief note on the future of accounts](https://ethresear.ch/t/a-brief-note-on-the-future-of-accounts/12395)
 - [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
 - [Account Abstraction is NOT coming](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI)
+- [ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)
 - [Limitations of AA by Pete J Kim P1](https://twitter.com/petejkim/status/1529604590882234368)
 - [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
 - [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
