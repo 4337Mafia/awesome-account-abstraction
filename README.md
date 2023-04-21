@@ -170,6 +170,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 ### Explorers
 
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
+- [AAScan](https://aascan.org)
 
 ### Dune dashboards
 
