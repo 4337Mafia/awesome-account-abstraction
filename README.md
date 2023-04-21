@@ -98,7 +98,7 @@
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
-- [zerodevapp/core](https://github.com/zerodevapp/core)
+- [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
@@ -117,6 +117,7 @@
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
+- [ZeroDev](https://github.com/zerodevapp/zerodev-wallet-kernel)
 
 ### Bundlers
 
