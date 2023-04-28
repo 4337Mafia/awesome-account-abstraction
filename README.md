@@ -147,6 +147,10 @@
 
 - [Account Abstraction RPC Providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers#account-abstraction-rpc-providers)
 
+### L2 Integration API
+
+- [Integration API for EIP-4337 bundler with an L2 validator/sequencer](https://notes.ethereum.org/@yoav/SkaX2lS9j)
+
 # Projects
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
