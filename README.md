@@ -151,6 +151,10 @@
 
 - [Integration API for EIP-4337 bundler with an L2 validator/sequencer](https://notes.ethereum.org/@yoav/SkaX2lS9j)
 
+### Indexer
+
+- [UoIndexer](https://github.com/zsluedem/UoIndexer)
+
 # Projects
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
