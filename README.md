@@ -62,7 +62,8 @@
 ### Applications
 
 - [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
-- [What Can You Do with Account Abstraction?](https://blog.zerodev.app/what-can-you-do-with-account-abstraction/)
+- [What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)
+- [Session Keys are the JWTs of Web3](https://docs.zerodev.app/blog/session-keys-are-the-jwts-of-web3)
 
 ### Twitter Threads
 
