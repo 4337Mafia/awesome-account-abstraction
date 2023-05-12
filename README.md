@@ -132,6 +132,10 @@
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
 
+### Paymasters
+
+- [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
+
 ### Starknet
 
 - [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts)
