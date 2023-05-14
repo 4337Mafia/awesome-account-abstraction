@@ -127,10 +127,14 @@
 ### Bundlers
 
 - [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
-- [Python Implementation](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC) by Candide
+- [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) by Candide
 - [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
+
+### Paymasters
+
+- [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 
 ### Starknet
 
