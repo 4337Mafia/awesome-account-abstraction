@@ -171,6 +171,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
 - [Peaze](https://www.peaze.com/)
+- [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
