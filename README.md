@@ -40,6 +40,7 @@
 - [ERC 4337: account abstraction without Ethereum protocol changes by Vitalik](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 - [We should be moving beyond EOAs, not enshrining them even further (EIP 3074-related)](https://ethereum-magicians.org/t/we-should-be-moving-beyond-eoas-not-enshrining-them-even-further-eip-3074-related/6538)
 - [What is ERC-6492 and why it’s important for Account Abstraction](https://docs.zerodev.app/blog/erc-6492-and-why-its-important-for-aa)
+- [Account Abstraction could bring the next billion users into Web3](https://coinmarketcap.com/community/articles/6464e62f9c5a696947a0b15e/)
 
 ### Current Landscape / Thoughts / Threads
 
