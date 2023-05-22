@@ -77,6 +77,7 @@
 - [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
 - [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
 - [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
+- [Bundler P2P Network](https://twitter.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://twitter.com/ch4r10t33r)
 
 # Videos
 
