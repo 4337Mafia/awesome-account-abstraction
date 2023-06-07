@@ -88,6 +88,7 @@
 - [Starkware: Account Abstraction (Argent X)](https://www.slideshare.net/TinaBregovi/starkware-account-abstraction?next_slideshow=251274463)
 - [What is Account Abstraction?](https://www.youtube.com/watch?v=wnh8Ea6aYM8&)
 - [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
+- [Account Abstraction Full Course | ERC-4337 Explained | Code + Architecture | Bonus Podcast 🔥 | Safe](https://www.youtube.com/watch?v=1pE261Tbjcc)
 
 #### Devcon Bogotá
 
