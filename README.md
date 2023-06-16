@@ -88,6 +88,7 @@
 - [Starkware: Account Abstraction (Argent X)](https://www.slideshare.net/TinaBregovi/starkware-account-abstraction?next_slideshow=251274463)
 - [What is Account Abstraction?](https://www.youtube.com/watch?v=wnh8Ea6aYM8&)
 - [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
+- [The future of wallets: MPC vs Account Abstraction](https://youtu.be/v8tGYa46eQU)
 
 #### Devcon Bogotá
 
@@ -99,6 +100,7 @@
 ### SDK & Libaries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
+- [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
