@@ -26,7 +26,7 @@
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 - [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 
-### Ethereum Improvement Processes (EIPs)
+### Ethereum Improvement Proposals (EIPs)
 
 - [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337)
 - [EIP-5003: Insert Code into EOAs with AUTHUSURP](https://eips.ethereum.org/EIPS/eip-5003)
