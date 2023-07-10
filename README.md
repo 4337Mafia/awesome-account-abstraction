@@ -22,6 +22,7 @@
 
 - [EIP 4337 website from Infinitism](https://www.erc4337.io/)
 - [The History and Future of Account Abstraction by Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
+- [Account Abstraction 101: a Comprehensive Guide by Braavos](https://braavos.app/account-abstraction-ethereum-comprehensive-guide/)
 - [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 - [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
@@ -82,6 +83,8 @@
 # Videos
 
 - [ERC 4337: Account Abstraction via Alternative Mempool](https://www.youtube.com/watch?v=eyT6WzJmWyc&ab_channel=ETHGlobal)
+- [Starkware: Account Abstraction Security Pyramid (Braavos)](https://www.youtube.com/watch?v=FrxAdJYhSY8)
+- [Starkware Sessions: Bankless / Motty Lavie on Smart Contract Wallets](https://www.youtube.com/watch?v=9ycBLfqYcO4)
 - [Julien Niset Why account abstraction on L2 is critical for mass adoption](https://www.youtube.com/watch?v=LpDrT3s9PrY&ab_channel=AmphiPontoise)
 - [Why smart contract wallets are the future with EIP-4337 and Account Abstraction -@kristofgazso](https://www.youtube.com/watch?v=LdaoBzwHFkU&ab_channel=ETHDubai)
 - [StarkNetCC panel on AA with Argent, Braavos, Ledger, briq and Realms](https://www.youtube.com/watch?v=sbbVCAB--i4&t=20741s)
@@ -99,6 +102,7 @@
 ### SDK & Libaries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
+- [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
@@ -144,6 +148,7 @@
 ### Starknet
 
 - [Guildly: An implementation for having guilds for on-chain games on Starknet.](https://github.com/Guildly/contracts)
+- [Braavos account contracts including multisig and Hardware Signer](https://github.com/myBraavos/braavos-account-cairo)
 - [Argent account contracts on Starknet](https://github.com/argentlabs/argent-contracts-starknet)
 - [Multisig wallet on StarkNet](https://github.com/eqlabs/starknet-multisig/)
 - [Another Multisig wallet on StarkNet](https://github.com/sambarnes/cairo-multisig)
@@ -171,6 +176,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
 - [Argent](https://www.argent.xyz/)
+- [Braavos](https://braavos.app/)
 - [Biconomy](https://www.biconomy.io/)
 - [BLS Wallet](https://blswallet.org/)
 - [Candide](https://www.candidewallet.com/)
