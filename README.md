@@ -177,6 +177,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Etherspot](https://etherspot.io)
 - [Fluvi](https://fluvi.io/)
 - [Forum Wallet](https://forumdaos.com/)
+- [Obvious](https://obvious.technology/)
 - [Kriptonio](https://kriptonio.com)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
