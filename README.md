@@ -33,6 +33,7 @@
 - [EIP-5003: Insert Code into EOAs with AUTHUSURP](https://eips.ethereum.org/EIPS/eip-5003)
 - [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
 - [EIP-6492: Signature Validation for Predeploy Contracts](https://eips.ethereum.org/EIPS/eip-6492)
+- [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 
 
 ### EIP Articles & Discussions
