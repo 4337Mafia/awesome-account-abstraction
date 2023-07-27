@@ -136,7 +136,7 @@
 - [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
 - [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) by Candide
 - [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) by Pimlico
-- [Rust Implementation](https://github.com/Vid201/aa-bundler/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
+- [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
 
