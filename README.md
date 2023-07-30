@@ -65,6 +65,7 @@
 - [How to Make On-Chain Gaming Competitive: ‘Session Keys’ [Part 1]](https://mirror.xyz/matchboxdao.eth/VXOvLKIvfXHP-cusKHw55zqlHpvvWwzh_fqm6j48Yek)
 - [What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)
 - [Session Keys are the JWTs of Web3](https://docs.zerodev.app/blog/session-keys-are-the-jwts-of-web3)
+- [Combining Token Bound Accounts with Account Abstraction](https://www.openfort.xyz/blog/technical-dive-combining-token-bound-account-tba-with-account-abstraction-aa)
 
 ### Twitter Threads
 
@@ -107,6 +108,7 @@
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
+- [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
@@ -123,6 +125,7 @@
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Kriptonio](https://kriptonio.com)
+- [Openfort](https://github.com/openfort-xyz/openfort-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Stackup](https://github.com/stackup-wallet/stackup)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
