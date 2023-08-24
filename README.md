@@ -27,6 +27,7 @@
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 - [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 - [Understanding Account Abstraction by Alchemy](https://www.alchemy.com/learn/account-abstraction)
+- [Account Abstraction Decoded by Blocktheory](https://blocktheory.com/decoded/account-abstraction-use-cases)
 
 ### Ethereum Improvement Proposals (EIPs)
 
