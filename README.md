@@ -26,6 +26,7 @@
 - [Primer on AA by Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 - [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
+- [Understanding Account Abstraction by Alchemy](https://www.alchemy.com/learn/account-abstraction)
 
 ### Ethereum Improvement Proposals (EIPs)
 
@@ -94,6 +95,7 @@
 - [What is Account Abstraction?](https://www.youtube.com/watch?v=wnh8Ea6aYM8&)
 - [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
 - [ERC-4337 Account Abstraction presentation by Trail of Bits](https://www.youtube.com/watch?v=edPJaUYWlhY)
+- [Full Course on Account Abstraction & ERC-4337 Architecture includes bonus podcast with CEO of StackUp](https://youtu.be/1pE261Tbjcc)
 
 #### Devcon Bogotá
 
