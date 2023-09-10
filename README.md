@@ -108,6 +108,7 @@
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
+- [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)  
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
