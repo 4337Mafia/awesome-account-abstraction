@@ -136,7 +136,7 @@
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
-- [ZeroDev](https://github.com/zerodevapp/zerodev-wallet-kernel)
+- [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
 ### Bundlers
 
