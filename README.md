@@ -50,6 +50,7 @@
 - [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
 - [Account Abstraction is NOT coming](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI)
 - [ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)
+- [Intent-Centric Design: Repackaging Account Abstraction, or Evolving It Further?](https://blog.particle.network/intent-centric-design-repackaging-account-abstraction-or-evolving-it-further-2/)
 - [Limitations of AA by Pete J Kim P1](https://twitter.com/petejkim/status/1529604590882234368)
 - [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
 - [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
@@ -119,6 +120,7 @@
 - [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
+- [particle-network/particle-bundler-server](https://github.com/Particle-Network/particle-bundler-server)
 
 ### Smart Contracts (EVM)
 
@@ -147,6 +149,7 @@
 - [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
+- [TypeScript Implementation](https://github.com/Particle-Network/particle-bundler-server) by Particle Network
 
 ### Paymasters
 
@@ -195,6 +198,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Obvious](https://obvious.technology/)
 - [Kriptonio](https://kriptonio.com)
 - [Openfort](https://openfort.xyz)
+- [Particle Network](https://particle.network)
 - [Patch Wallet](https://app.patchwallet.com/)
 - [Peaze](https://www.peaze.com/)
 - [Pimlico](https://www.pimlico.io)
