@@ -138,6 +138,7 @@
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [ZeroDev](https://github.com/zerodevapp/zerodev-wallet-kernel)
+- [TokenPocket Wallet](https://github.com/TP-Lab/AA-Core)
 
 ### Bundlers
 
@@ -153,6 +154,7 @@
 
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
+- [ERC20 Paymaster contracts](https://github.com/TP-Lab/AA-Core) by TokenPocket
 
 ### Starknet
 
