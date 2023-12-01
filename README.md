@@ -119,6 +119,7 @@
 - [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
+- [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 
 ### Smart Contracts (EVM)
 
