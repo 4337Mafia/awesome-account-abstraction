@@ -149,6 +149,7 @@
 - [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
+- [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) by Transeptor Labs
 
 ### Paymasters
 
