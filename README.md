@@ -63,6 +63,7 @@
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
+- [Account Abstraction Provider Market Map](https://www.dynamic.xyz/blog/account-abstraction-market-map)
 
 ### Applications
 
