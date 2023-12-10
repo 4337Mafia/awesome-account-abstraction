@@ -182,6 +182,11 @@
 ### Indexer
 
 - [UoIndexer](https://github.com/zsluedem/UoIndexer)
+  
+### Misc
+
+- [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py)
+
 
 # Projects
 
