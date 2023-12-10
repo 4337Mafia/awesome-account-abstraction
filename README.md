@@ -200,7 +200,6 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Kriptonio](https://kriptonio.com)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
-- [Peaze](https://www.peaze.com/)
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
