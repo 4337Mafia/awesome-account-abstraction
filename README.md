@@ -38,7 +38,6 @@
 - [EIP-6492: Signature Validation for Predeploy Contracts](https://eips.ethereum.org/EIPS/eip-6492)
 - [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 
-
 ### EIP Articles & Discussions
 
 - [Account Abstraction EIP:2938 by Status](https://our.status.im/account-abstraction-eip-2938/)
@@ -63,6 +62,7 @@
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
+- [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
 
 ### Applications
 
@@ -106,11 +106,11 @@
 
 # Code
 
-### SDK & Libaries
+### SDK & Libraries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
-- [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)  
+- [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
@@ -123,6 +123,7 @@
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 - [getwax/wax](https://github.com/getwax)
+- [Dynamic w/ Zerodev](https://docs.dynamic.xyz/embedded-wallets/add-account-abstraction)
 
 ### Smart Contracts (EVM)
 
@@ -143,7 +144,6 @@
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
 ### Bundlers
-
 
 - [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
 - [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) by Candide
@@ -182,11 +182,10 @@
 ### Indexer
 
 - [UoIndexer](https://github.com/zsluedem/UoIndexer)
-  
+
 ### Misc
 
 - [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py)
-
 
 # Projects
 
@@ -216,6 +215,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
+- [Dynamic](https://www.dynamic.xyz/)
 
 ### Explorers
 
