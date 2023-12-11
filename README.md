@@ -106,7 +106,7 @@
 
 # Code
 
-### SDK & Libaries
+### SDK & Libraries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
