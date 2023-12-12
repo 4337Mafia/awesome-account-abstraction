@@ -127,6 +127,7 @@
 
 ### Smart Contracts (EVM)
 
+- [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/)
 - [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
@@ -152,11 +153,13 @@
 - [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
 - [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) by Transeptor Labs
+- [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler) by Alchemy
 
 ### Paymasters
 
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
+- [Paymaster API](https://docs.alchemy.com/reference/gas-manager-coverage-api-quickstart) by Alchemy
 
 ### Starknet
 
@@ -192,6 +195,7 @@
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
+- [Alchemy](https://accountkit.alchemy.com/)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
 - [Braavos](https://braavos.app/)
