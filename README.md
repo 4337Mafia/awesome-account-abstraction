@@ -143,6 +143,10 @@
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
+### Examples
+
+- [LearnWeb3 - Build An Entire AA Wallet From Scratch](https://learnweb3.io/courses/account-abstraction-course/build-an-entire-aa-wallet-from-scratch)
+
 ### Bundlers
 
 - [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
