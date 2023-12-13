@@ -211,6 +211,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
 - [Squence](https://sequence.app/)
+- [Timeless](https://timelesswallet.xyz)
 - [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
