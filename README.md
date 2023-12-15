@@ -39,6 +39,7 @@
 - [EIP-6492: Signature Validation for Predeploy Contracts](https://eips.ethereum.org/EIPS/eip-6492)
 - [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 - [RIP-7560: Native Account Abstraction](https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664)
+- [EIP-7377: (AA) Migration Transaction](https://eips.ethereum.org/EIPS/eip-7377)
 
 ### EIP Articles & Discussions
 
@@ -220,6 +221,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
 - [Squence](https://sequence.app/)
+- [Timeless](https://timelesswallet.xyz)
 - [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
