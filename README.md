@@ -28,6 +28,7 @@
 - [Managing Complexity Via AA – A Simplified Future by Etherspot](https://etherspot.io/blog/account-abstraction-a-simplified-future/)
 - [Account Abstraction for Everyone Else by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 - [Understanding Account Abstraction by Alchemy](https://www.alchemy.com/learn/account-abstraction)
+- [Account Abstraction Deep Dive by Alchemy](https://www.alchemy.com/blog/account-abstraction)
 - [Account Abstraction Decoded by Blocktheory](https://blocktheory.com/decoded/account-abstraction-use-cases)
 
 ### Ethereum Improvement Proposals (EIPs)
@@ -37,6 +38,7 @@
 - [EIP-5792: Wallet Function Call API](https://eips.ethereum.org/EIPS/eip-5792)
 - [EIP-6492: Signature Validation for Predeploy Contracts](https://eips.ethereum.org/EIPS/eip-6492)
 - [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
+- [RIP-7560: Native Account Abstraction](https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664)
 
 ### EIP Articles & Discussions
 
@@ -63,6 +65,7 @@
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 - [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
+- [Understanding ERC 4337 Gas Estimation](https://www.alchemy.com/blog/erc-4337-gas-estimation)
 
 ### Applications
 
@@ -98,6 +101,7 @@
 - [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
 - [ERC-4337 Account Abstraction presentation by Trail of Bits](https://www.youtube.com/watch?v=edPJaUYWlhY)
 - [Full Course on Account Abstraction & ERC-4337 Architecture includes bonus podcast with CEO of StackUp](https://youtu.be/1pE261Tbjcc)
+- [ERC 4337 Deep Dive](https://www.youtube.com/watch?v=ZMaHhOFvYXk)
 
 #### Devcon Bogotá
 
@@ -109,25 +113,26 @@
 ### SDK & Libraries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
-- [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
-- [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)
+- [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
+- [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
+- [Dynamic w/ Zerodev](https://docs.dynamic.xyz/embedded-wallets/add-account-abstraction)
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
+- [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
+- [getwax/wax](https://github.com/getwax)
 - [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
-- [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
-- [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
-- [web3well/easy-web3](https://github.com/web3well/easy-web3)
+- [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
-- [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
-- [getwax/wax](https://github.com/getwax)
-- [Dynamic w/ Zerodev](https://docs.dynamic.xyz/embedded-wallets/add-account-abstraction)
+- [web3well/easy-web3](https://github.com/web3well/easy-web3)
+- [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 
 ### Smart Contracts (EVM)
 
 - [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/)
+- [Alchemy ModularAccount](https://accountkit.alchemy.com/smart-accounts/accounts/guides/modular-account.html)
 - [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
@@ -137,29 +142,28 @@
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Kriptonio](https://kriptonio.com)
 - [Openfort](https://github.com/openfort-xyz/openfort-contracts)
-- [Safe](https://github.com/safe-global/safe-contracts/)
-- [Stackup](https://github.com/stackup-wallet/stackup)
-- [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
-- [TrueWallet](https://github.com/TrueWallet/contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
+- [Safe](https://github.com/safe-global/safe-contracts/)
+- [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
+- [Stackup](https://github.com/stackup-wallet/stackup)
+- [TrueWallet](https://github.com/TrueWallet/contracts)
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
 ### Bundlers
 
-- [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
-- [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) by Candide
 - [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) by Pimlico
+- [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
+- [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) by Alchemy
 - [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
-- [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
 - [Transeptor - Typescript Implementation](https://github.com/transeptorlabs/transeptor-bundler) by Transeptor Labs
-- [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler) by Alchemy
+- [TypeScript Implementation](https://github.com/eth-infinitism/bundler) by Infinitism
+- [Voltaire - Python Implementation](https://github.com/candidelabs/voltaire) by Candide
 
 ### Paymasters
 
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
-- [Paymaster API](https://docs.alchemy.com/reference/gas-manager-coverage-api-quickstart) by Alchemy
 
 ### Starknet
 
@@ -201,11 +205,12 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Braavos](https://braavos.app/)
 - [Biconomy](https://www.biconomy.io/)
 - [Candide](https://www.candidewallet.com/)
+- [Dynamic](https://www.dynamic.xyz/)
 - [Etherspot](https://etherspot.io)
 - [Fluvi](https://fluvi.io/)
 - [Forum Wallet](https://forumdaos.com/)
-- [Obvious](https://obvious.technology/)
 - [Kriptonio](https://kriptonio.com)
+- [Obvious](https://obvious.technology/)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
 - [Pimlico](https://www.pimlico.io)
@@ -219,14 +224,13 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Unipass](https://www.unipass.id/)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
-- [Dynamic](https://www.dynamic.xyz/)
 
 ### Explorers
 
-- [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 - [AAScan](https://aascan.org)
 - [Blocknative](https://4337.blocknative.com/)
 - [DeCommas REST API (no UI)](https://build.decommas.io)
+- [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 
 ### Dune dashboards
 
