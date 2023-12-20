@@ -67,6 +67,7 @@
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 - [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
 - [Understanding ERC 4337 Gas Estimation](https://www.alchemy.com/blog/erc-4337-gas-estimation)
+- [ERC-7579 and Modular Smart Accounts Docs](https://erc7579.com/)
 
 ### Applications
 
@@ -248,6 +249,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - 4337 mafia (product and application)
 - 4337 fan club (EIP, research, security)
+- [Modular Contract Account Standard](https://t.me/+KfB9WuhKDgk5YzIx)
 
 ### Twitter
 
