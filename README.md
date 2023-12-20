@@ -235,10 +235,11 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [DeCommas REST API (no UI)](https://build.decommas.io)
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 
-### Dune dashboards
+### Data dashboards
 
 - [erc-4337](https://dune.com/johnrising/erc-4337) by John (johnrising)
 - [account-abstraction](https://dune.com/niftytable/account-abstraction) by Kofi (niftytable)
+- [BundleBear](https://www.bundlebear.com/overview/all) by Kofi (niftytable)
 - [erc4337-mainnet](https://dune.com/suneal_eth/erc4337-mainnet) by Suneal (suneal_eth)
 
 # Communities
