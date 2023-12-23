@@ -40,6 +40,7 @@
 - [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 - [RIP-7560: Native Account Abstraction](https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664)
 - [EIP-7377: (AA) Migration Transaction](https://eips.ethereum.org/EIPS/eip-7377)
+- [ERC-7579: Minimal Modular Smart Accounts](https://github.com/ethereum/ERCs/pull/163/files)
 
 ### EIP Articles & Discussions
 
@@ -67,6 +68,7 @@
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 - [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
 - [Understanding ERC 4337 Gas Estimation](https://www.alchemy.com/blog/erc-4337-gas-estimation)
+- [ERC-7579 and Modular Smart Accounts Docs](https://erc7579.com/)
 
 ### Applications
 
@@ -248,6 +250,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - 4337 mafia (product and application)
 - 4337 fan club (EIP, research, security)
+- [Modular Contract Account Standard](https://t.me/+KfB9WuhKDgk5YzIx)
 
 ### Twitter
 
