@@ -118,6 +118,7 @@
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
+- [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk)
 - [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
