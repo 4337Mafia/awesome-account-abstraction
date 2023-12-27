@@ -87,7 +87,7 @@
 - [How to try to scam your scammer](https://twitter.com/0x_ARK/status/1553395019884535809) by @0x_ARK
 - [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
 - [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
-- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328)
+- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328) by @Ivshti
 - [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
 - [Bundler P2P Network](https://twitter.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://twitter.com/ch4r10t33r)
 
@@ -102,6 +102,7 @@
 - [Starkware: Account Abstraction (Argent X)](https://www.slideshare.net/TinaBregovi/starkware-account-abstraction?next_slideshow=251274463)
 - [What is Account Abstraction?](https://www.youtube.com/watch?v=wnh8Ea6aYM8&)
 - [What is EIP-4337?](https://www.youtube.com/watch?v=Nsqyt7YYvgg)
+- [The future of wallets: MPC vs Account Abstraction](https://youtu.be/v8tGYa46eQU)
 - [ERC-4337 Account Abstraction presentation by Trail of Bits](https://www.youtube.com/watch?v=edPJaUYWlhY)
 - [Full Course on Account Abstraction & ERC-4337 Architecture includes bonus podcast with CEO of StackUp](https://youtu.be/1pE261Tbjcc)
 - [ERC 4337 Deep Dive](https://www.youtube.com/watch?v=ZMaHhOFvYXk)
@@ -117,6 +118,7 @@
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
+- [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/)
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x)
 - [bcnmy/biconomy-client-sdk](https://github.com/bcnmy/biconomy-client-sdk)
 - [Braavos/efficient-secp256r1](https://github.com/myBraavos/efficient-secp256r1)
