@@ -254,10 +254,11 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - 4337 fan club (EIP, research, security)
 - [Modular Contract Account Standard](https://t.me/+KfB9WuhKDgk5YzIx)
 
-### Twitter
+### Twitter / Farcaster
 
 - [Official Twitter account for ERC-4337 Account Abstraction](https://twitter.com/erc4337)
-- [4337Mafia](https://twitter.com/4337Mafia)
+- [4337Mafia Twitter account](https://twitter.com/4337Mafia)
+- [4337Mafia Farcaster account](https://warpcast.com/4337mafia)
 
 ### Discord
 
