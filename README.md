@@ -117,6 +117,7 @@
 ### SDK & Libraries
 
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
+- [aarc-xyz/aarc-sdk](https://github.com/aarc-xyz/aarc-sdk)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 - [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk)
 - [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/)
@@ -206,6 +207,7 @@
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
+- [Aarc] (https://aarc.xyz/)
 - [Alchemy](https://accountkit.alchemy.com/)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
