@@ -69,6 +69,7 @@
 - [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
 - [Understanding ERC 4337 Gas Estimation](https://www.alchemy.com/blog/erc-4337-gas-estimation)
 - [ERC-7579 and Modular Smart Accounts Docs](https://erc7579.com/)
+- [2023 Recap: Modular Account Abstraction](https://blog.rhinestone.wtf/2023-recap-modular-account-abstraction-b8372e461cde)
 
 ### Applications
 
