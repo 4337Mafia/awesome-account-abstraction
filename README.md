@@ -252,6 +252,8 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 # Communities
 
+- [Socials Linktree](https://linktr.ee/alexanderchopan) by accountless.eth
+
 ### Telegram
 
 - 4337 mafia (product and application)
