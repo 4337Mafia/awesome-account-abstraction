@@ -30,6 +30,7 @@
 - [Understanding Account Abstraction by Alchemy](https://www.alchemy.com/learn/account-abstraction)
 - [Account Abstraction Deep Dive by Alchemy](https://www.alchemy.com/blog/account-abstraction)
 - [Account Abstraction Decoded by Blocktheory](https://blocktheory.com/decoded/account-abstraction-use-cases)
+- [Deconstructing Account Abstraction by cyber•Fund](https://cyber.fund/content/AA)
 
 ### Ethereum Improvement Proposals (EIPs)
 
