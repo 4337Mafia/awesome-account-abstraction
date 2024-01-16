@@ -136,6 +136,8 @@
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
 - [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
+- [thirdweb-dev/react](https://portal.thirdweb.com/react)
+- [thirdweb-dev/react-native](https://portal.thirdweb.com/react-native)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 
@@ -156,6 +158,7 @@
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Stackup](https://github.com/stackup-wallet/stackup)
+- [thirdweb](https://thirdweb.com/explore/smart-wallet)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
@@ -233,6 +236,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
 - [Squence](https://sequence.app/)
+- [thirdweb](https://thirdweb.com/)
 - [Timeless](https://timelesswallet.xyz)
 - [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
