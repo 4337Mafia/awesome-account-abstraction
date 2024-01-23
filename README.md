@@ -66,7 +66,6 @@
 - [Why we need wide adoption of social recovery wallets](https://vitalik.eth.limo/general/2021/01/11/recovery.html)
 - [Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 - [Using EIP-2535 Diamonds to implement the smart contract wallet for EIP-4337](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/53)
-- [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
 - [Unified ERC 4337 Mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)
 - [The Account Abstraction Market Map](https://www.dynamic.xyz/blog/aa-v2)
 - [Understanding ERC 4337 Gas Estimation](https://www.alchemy.com/blog/erc-4337-gas-estimation)
