@@ -139,6 +139,8 @@
 - [thirdweb-dev/react-native](https://portal.thirdweb.com/react-native)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
+- [pimlico/permissionless.js](docs.pimlico.io/permissionless)
+
 
 ### Smart Contracts (EVM)
 
