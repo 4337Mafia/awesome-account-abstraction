@@ -140,6 +140,7 @@
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](docs.pimlico.io/permissionless)
+- [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
 
 
 ### Smart Contracts (EVM)
@@ -158,7 +159,7 @@
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
-- [Stackup](https://github.com/stackup-wallet/stackup)
+- [Stackup](https://github.com/stackup-wallet/)
 - [thirdweb](https://thirdweb.com/explore/smart-wallet)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
@@ -166,7 +167,7 @@
 ### Bundlers
 
 - [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) by Pimlico
-- [Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
+- [Stackup - Golang Implementation](https://github.com/stackup-wallet/stackup-bundler) by Stackup
 - [Rundler - Rust Implementation](https://github.com/alchemyplatform/rundler/tree/main) by Alchemy
 - [Silius - Rust Implementation](https://github.com/Vid201/silius/) - [blog](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [Skandha - Typescript Implementation](https://github.com/etherspot/skandha) by Etherspot
@@ -178,6 +179,7 @@
 
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
+- [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
 
 ### Starknet
 
@@ -215,7 +217,7 @@
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
-- [Aarc] (https://aarc.xyz/)
+- [Aarc](https://aarc.xyz/)
 - [Alchemy](https://accountkit.alchemy.com/)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
@@ -250,6 +252,9 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Blocknative](https://4337.blocknative.com/)
 - [DeCommas REST API (no UI)](https://build.decommas.io)
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
+
+### Debuggers
+- [Userop.dev](https://userop.dev/)
 
 ### Data dashboards
 
