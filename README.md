@@ -92,6 +92,7 @@
 - [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328) by @Ivshti
 - [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
 - [Bundler P2P Network](https://twitter.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://twitter.com/ch4r10t33r)
+- [Top ERC-4337 Bundlers](https://x.com/bl00dy1337/status/1691415580539039744?s=20) by [@Bloody](https://twitter.com/bl00dy1337)
 
 # Videos
 
@@ -129,7 +130,7 @@
 - [cupcakes-3/sdk](https://github.com/cupcakes-3/sdk)
 - [Dynamic w/ Zerodev](https://docs.dynamic.xyz/embedded-wallets/add-account-abstraction)
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
-- [etherspot-sdk](https://github.com/etherspot/etherspot-sdk)
+- [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk)
 - [getwax/wax](https://github.com/getwax)
 - [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node)
 - [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
@@ -151,7 +152,7 @@
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
-- [Etherspot](https://github.com/etherspot/etherspot-contracts/)
+- [Etherspot](https://github.com/etherspot/etherspot-prime-contracts)
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Kriptonio](https://kriptonio.com)
@@ -180,6 +181,7 @@
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
 - [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
+- [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 
 ### Starknet
 
