@@ -40,7 +40,7 @@
 - [EIP-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 - [RIP-7560: Native Account Abstraction](https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664)
 - [EIP-7377: (AA) Migration Transaction](https://eips.ethereum.org/EIPS/eip-7377)
-- [ERC-7579: Minimal Modular Smart Accounts](https://github.com/ethereum/ERCs/pull/163/files)
+- [ERC-7579: Minimal Modular Smart Accounts](https://eips.ethereum.org/EIPS/eip-7579)
 
 ### EIP Articles & Discussions
 
