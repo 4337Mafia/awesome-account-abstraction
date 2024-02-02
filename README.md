@@ -250,6 +250,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Explorers
 
+- [AA Explorer](https://aaexplorer.com/)
 - [AAScan](https://aascan.org)
 - [Blocknative](https://4337.blocknative.com/)
 - [DeCommas REST API (no UI)](https://build.decommas.io)
