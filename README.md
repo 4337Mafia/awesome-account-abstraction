@@ -138,6 +138,7 @@
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 - [thirdweb-dev/react](https://portal.thirdweb.com/react)
 - [thirdweb-dev/react-native](https://portal.thirdweb.com/react-native)
+- [TrueWallet/js-sdk](https://github.com/TrueWallet/js-sdk)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](docs.pimlico.io/permissionless)
