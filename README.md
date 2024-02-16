@@ -134,7 +134,7 @@
 - [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk)
 - [getwax/wax](https://github.com/getwax)
 - [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node)
-- [porco-rosso-j/zksync-aa-wallet-paymaster](https://github.com/porco-rosso-j/zksync-aa-wallet-paymaster)
+- [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit)
 - [rdubois-crypto/FreshCryptoLib](https://github.com/rdubois-crypto/FreshCryptoLib)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 - [thirdweb-dev/react](https://portal.thirdweb.com/react)
