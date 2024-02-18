@@ -143,6 +143,8 @@
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](https://docs.pimlico.io/permissionless)
 - [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
+- [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
+- [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
 
 
 ### Smart Contracts (EVM)
@@ -238,6 +240,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
+- [Shakespay](https://shakesco.netlify.app/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
