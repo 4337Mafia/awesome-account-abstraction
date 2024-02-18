@@ -93,7 +93,7 @@
 - [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328) by @Ivshti
 - [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
 - [Bundler P2P Network](https://twitter.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://twitter.com/ch4r10t33r)
-- [Top ERC-4337 Bundlers](https://x.com/bl00dy1337/status/1691415580539039744?s=20) by [@Bloody](https://twitter.com/bl00dy1337)
+- [Top ERC-4337 Bundlers](https://twitter.com/bl00dy1337/status/1691415580539039744) by [@Bloody](https://twitter.com/bl00dy1337)
 
 # Videos
 
@@ -141,7 +141,7 @@
 - [thirdweb-dev/react-native](https://portal.thirdweb.com/react-native)
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
-- [pimlico/permissionless.js](docs.pimlico.io/permissionless)
+- [pimlico/permissionless.js](https://docs.pimlico.io/permissionless)
 - [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
 
 
