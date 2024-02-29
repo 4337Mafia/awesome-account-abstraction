@@ -251,6 +251,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Timeless](https://timelesswallet.xyz)
 - [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
+- [WalletX](https://walletx.info/)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
 
