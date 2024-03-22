@@ -151,7 +151,7 @@
 ### Smart Contracts (EVM)
 
 - [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/)
-- [Alchemy ModularAccount](https://accountkit.alchemy.com/smart-accounts/accounts/guides/modular-account.html)
+- [Alchemy ModularAccount](https://github.com/alchemyplatform/modular-account)
 - [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
