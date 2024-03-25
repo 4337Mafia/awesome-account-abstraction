@@ -163,6 +163,7 @@
 - [Openfort](https://github.com/openfort-xyz/openfort-contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
+- [Shakespay](https://github.com/shakesco/shakesco-contracts/)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
 - [Stackup](https://github.com/stackup-wallet/)
 - [thirdweb](https://thirdweb.com/explore/smart-wallet)
