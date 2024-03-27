@@ -1,0 +1,24 @@
+name: Malicious Link Checker
+
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - 'main'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Run VirusTotal Link Checker
+        uses: arddluma/gh-action-virustotal-link-checker@v1.0.0
+        with:
+            virustotal-api-key: ${{ secrets.VIRUS_TOTAL_API_KEY }}
+            filename: 'README.md'
+            malicious_threshold: 1
+            suspicious_threshold: 1
