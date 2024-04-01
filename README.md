@@ -263,7 +263,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Blocknative](https://4337.blocknative.com/)
 - [DeCommas REST API (no UI)](https://build.decommas.io)
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
-- [Blockscout] (https://eth.blockscout.com/ops)
+- [Blockscout](https://eth.blockscout.com/ops)
 
 ### Debuggers
 - [Userop.dev](https://userop.dev/)
