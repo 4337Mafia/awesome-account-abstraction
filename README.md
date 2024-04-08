@@ -110,6 +110,9 @@
 - [ERC-4337 Account Abstraction presentation by Trail of Bits](https://www.youtube.com/watch?v=edPJaUYWlhY)
 - [Full Course on Account Abstraction & ERC-4337 Architecture includes bonus podcast with CEO of StackUp](https://youtu.be/1pE261Tbjcc)
 - [ERC 4337 Deep Dive](https://www.youtube.com/watch?v=ZMaHhOFvYXk)
+- [What is Account Abstraction and ERC-4337? (Alchemy)](https://www.youtube.com/playlist?list=PLMj8NvODurfGd0RJsuU9xN_rLIKXcJQGz)
+- [Build Smart Contract Accounts From Scratch (Alchemy)](https://www.youtube.com/playlist?list=PLMj8NvODurfFQmW8TiyRliastUQ4pwoEH)
+- [Build an ERC-6900 Plugin](https://www.youtube.com/playlist?list=PLMj8NvODurfEPj75PY9zMwz3d9y15Gxuv)
 
 #### Devcon Bogotá
 
@@ -146,7 +149,6 @@
 - [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
 - [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
 - [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
-
 
 ### Smart Contracts (EVM)
 
@@ -266,6 +268,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Blockscout](https://eth.blockscout.com/ops)
 
 ### Debuggers
+
 - [Userop.dev](https://userop.dev/)
 
 ### Data dashboards
