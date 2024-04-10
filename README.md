@@ -187,9 +187,14 @@
 ### Paymasters
 
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
+- [Paymaster service](https://github.com/stackup-wallet/stackup-paymaster) by Stackup
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
 - [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
+
+### Testing
+- [ERC-4337 Devnet](https://github.com/stackup-wallet/erc-4337-devnet) by Stackup
+- [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 
 ### Starknet
 
