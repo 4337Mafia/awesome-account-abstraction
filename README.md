@@ -239,6 +239,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Braavos](https://braavos.app/)
 - [Biconomy](https://www.biconomy.io/)
 - [Candide](https://www.candidewallet.com/)
+- [Cometh Connect](https://www.cometh.io/connect)
 - [Dynamic](https://www.dynamic.xyz/)
 - [Etherspot](https://etherspot.io)
 - [Fluvi](https://fluvi.io/)
