@@ -186,6 +186,7 @@
 
 ### Paymasters
 
+- [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) by Biconomy
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
 - [Paymaster service](https://github.com/stackup-wallet/stackup-paymaster) by Stackup
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
