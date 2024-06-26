@@ -196,6 +196,7 @@
 ### Testing
 - [ERC-4337 Devnet](https://github.com/stackup-wallet/erc-4337-devnet) by Stackup
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
+- [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
 
 ### Starknet
 
