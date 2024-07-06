@@ -250,6 +250,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Obvious](https://obvious.technology/)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
+- [Picnic](http://usepicnic.com/)
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
