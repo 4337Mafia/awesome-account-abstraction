@@ -120,6 +120,7 @@
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 
 ### CLI tools
+
 - [Betsy](https://github.com/transeptorlabs/betsy)
 
 ### Smart Contracts (EVM)
