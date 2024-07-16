@@ -119,6 +119,9 @@
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk)
 
+### CLI tools
+- [Betsy](https://github.com/transeptorlabs/betsy)
+
 ### Smart Contracts (EVM)
 
 - [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
