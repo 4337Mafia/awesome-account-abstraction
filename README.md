@@ -150,6 +150,10 @@
 - [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
 - [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
 
+### CLI tools
+
+- [Betsy](https://github.com/transeptorlabs/betsy)
+
 ### Smart Contracts (EVM)
 
 - [Alchemy LightAccount](https://github.com/alchemyplatform/light-account/)
