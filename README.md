@@ -192,6 +192,7 @@
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
 - [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
+- [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
 
 ### Testing
 - [ERC-4337 Devnet](https://github.com/stackup-wallet/erc-4337-devnet) by Stackup
