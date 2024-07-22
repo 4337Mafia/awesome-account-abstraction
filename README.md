@@ -167,6 +167,7 @@
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Shakespay](https://github.com/shakesco/shakesco-contracts/)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
+- [SSP Wallet](https://sspwallet.io)
 - [Stackup](https://github.com/stackup-wallet/)
 - [thirdweb](https://thirdweb.com/explore/smart-wallet)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
