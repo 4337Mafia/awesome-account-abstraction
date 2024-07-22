@@ -123,6 +123,7 @@
 
 ### SDK & Libraries
 
+- [@runonflux/aa-schnorr-multisig-sdk](https://www.npmjs.com/package/@runonflux/aa-schnorr-multisig-sdk)
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [aarc-xyz/aarc-sdk](https://github.com/aarc-xyz/aarc-sdk)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
@@ -167,6 +168,7 @@
 - [Safe](https://github.com/safe-global/safe-contracts/)
 - [Shakespay](https://github.com/shakesco/shakesco-contracts/)
 - [Soul Wallet](https://github.com/proofofsoulprotocol/soul-wallet-contract)
+- [SSP Wallet](https://sspwallet.io)
 - [Stackup](https://github.com/stackup-wallet/)
 - [thirdweb](https://thirdweb.com/explore/smart-wallet)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
@@ -254,6 +256,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
+- [Schnorr Multi Signature Accounts](https://github.com/RunOnFlux/account-abstraction)
 - [Shakespay](https://shakesco.netlify.app/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
