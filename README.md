@@ -123,6 +123,7 @@
 
 ### SDK & Libraries
 
+- [@runonflux/aa-schnorr-multisig-sdk](https://www.npmjs.com/package/@runonflux/aa-schnorr-multisig-sdk)
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
 - [aarc-xyz/aarc-sdk](https://github.com/aarc-xyz/aarc-sdk)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
