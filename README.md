@@ -83,7 +83,7 @@
 ### Twitter Threads
 
 - [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728) by @zksync
-- [🧵Thread: The inevitable adoption of account abstraction ](https://twitter.com/Crypto__Jesus_/status/1606307436406636547) by @Crypto\__Jesus_
+- [🧵Thread: The inevitable adoption of account abstraction](https://twitter.com/Crypto__Jesus_/status/1606307436406636547) by @Crypto\__Jesus_
 - [why hasn't crypto taken off?](https://twitter.com/divine_economy/status/1605230807299543041) by @divine_economy
 - [The concept and dynamics of Abstraction Account(AA) development](https://twitter.com/0xYolo/status/1584447321147789317) by @0xYolo
 - [EIP-4337 Account Abstraction](https://twitter.com/_nishil_/status/1579550419944058880) by @_nishil_
@@ -143,9 +143,8 @@
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](https://docs.pimlico.io/permissionless)
 - [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
-- [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
-- [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
-
+- [shakesco/userop.js](https://docs.shakesco.com/docs/userop/)
+- [shakesco/automation.js](https://docs.shakesco.com/docs/autopayments/)
 
 ### Smart Contracts (EVM)
 
@@ -241,7 +240,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
-- [Shakespay](https://shakesco.netlify.app/)
+- [Shakespay](https://shakesco.com/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
@@ -262,6 +261,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 
 ### Debuggers
+
 - [Userop.dev](https://userop.dev/)
 
 ### Data dashboards
