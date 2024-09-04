@@ -236,6 +236,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
 - [Aarc](https://aarc.xyz/)
+- [AAStar](https://aastar.io/)
 - [Alchemy](https://accountkit.alchemy.com/)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
