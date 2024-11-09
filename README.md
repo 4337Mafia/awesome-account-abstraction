@@ -268,6 +268,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [WalletKit](https://walletkit.com)
 - [ZeroDev](http://zerodev.app/)
 - [zkSync](https://zksync.io/)
+- [Abstraction](https://wallet.abstraction.world/)
 
 ### Explorers
 
