@@ -188,14 +188,11 @@
 
 - [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) by Biconomy
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
-- [Paymaster service](https://github.com/stackup-wallet/stackup-paymaster) by Stackup
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
-- [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
 
 ### Testing
-- [ERC-4337 Devnet](https://github.com/stackup-wallet/erc-4337-devnet) by Stackup
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 - [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
 
@@ -256,14 +253,12 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
-- [Shakespay](https://shakesco.netlify.app/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
 - [Stackup](https://stackup.sh/)
 - [Squence](https://sequence.app/)
 - [thirdweb](https://thirdweb.com/)
 - [Timeless](https://timelesswallet.xyz)
-- [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
 - [WalletKit](https://walletkit.com)
 - [ZeroDev](http://zerodev.app/)
@@ -272,13 +267,8 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 ### Explorers
 
 - [AA Explorer](https://aaexplorer.com/)
-- [DeCommas REST API (no UI)](https://build.decommas.io)
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 - [Blockscout](https://eth.blockscout.com/ops)
-
-### Debuggers
-
-- [Userop.dev](https://userop.dev/)
 
 ### Data dashboards
 
