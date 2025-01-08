@@ -146,7 +146,6 @@
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](https://docs.pimlico.io/permissionless)
-- [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
 - [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
 - [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
 
@@ -255,7 +254,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Safe](https://safe.global/)
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://twitter.com/soulwallet_eth)
-- [Stackup](https://stackup.sh/)
+- [Stackup](https://stackup.fi/)
 - [Squence](https://sequence.app/)
 - [thirdweb](https://thirdweb.com/)
 - [Timeless](https://timelesswallet.xyz)
