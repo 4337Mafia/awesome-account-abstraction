@@ -255,7 +255,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Solon Network](https://www.solon.network/)
 - [Soul Wallet](https://x.com/soulwallet_eth)
 - [Stackup](https://stackup.fi/)
-- [Squence](https://sequence.app/)
+- [Sequence](https://sequence.app/)
 - [thirdweb](https://thirdweb.com/)
 - [Timeless](https://timelesswallet.xyz)
 - [Unipass](https://www.unipass.id/)
