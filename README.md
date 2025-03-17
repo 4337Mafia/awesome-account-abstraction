@@ -57,8 +57,8 @@
 - [AA as Ethereum’s broadband moment, by @loaf](https://mirror.xyz/proofedloaf.eth/uJYBCOXoq0YfhKh0HrfwbA4yNV-jbvoeFiOnXDhs2Gc)
 - [Account Abstraction is NOT coming](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI)
 - [ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)
-- [Limitations of AA by Pete J Kim P1](https://twitter.com/petejkim/status/1529604590882234368)
-- [Limitations of AA by Pete J Kim P2](https://twitter.com/petejkim/status/1527027583254241280)
+- [Limitations of AA by Pete J Kim P1](https://x.com/petejkim/status/1529604590882234368)
+- [Limitations of AA by Pete J Kim P2](https://x.com/petejkim/status/1527027583254241280)
 - [Random thoughts on Account Abstraction](https://hackmd.io/@s0lness/BJUb16Yo9)
 - [The current state of Account Abstraction](https://mirror.xyz/plusminushalf.eth/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk)
 - [Starkware Discussion on AA P1](https://community.starknet.io/t/starknet-account-abstraction-model-part-1/781)
@@ -82,18 +82,18 @@
 
 ### Twitter Threads
 
-- [zkSync2.0 x Account Abstraction](https://twitter.com/zksync/status/1584924198907977728) by @zksync
-- [🧵Thread: The inevitable adoption of account abstraction ](https://twitter.com/Crypto__Jesus_/status/1606307436406636547) by @Crypto\__Jesus_
-- [why hasn't crypto taken off?](https://twitter.com/divine_economy/status/1605230807299543041) by @divine_economy
-- [The concept and dynamics of Abstraction Account(AA) development](https://twitter.com/0xYolo/status/1584447321147789317) by @0xYolo
-- [EIP-4337 Account Abstraction](https://twitter.com/_nishil_/status/1579550419944058880) by @_nishil_
-- [How to try to scam your scammer](https://twitter.com/0x_ARK/status/1553395019884535809) by @0x_ARK
-- [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://twitter.com/Mulan0x/status/1583813663986577408) by @Mulan0x
-- [decentralized fee market](https://twitter.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
-- [MPC vs smart contract wallets: comparison thread](https://twitter.com/Ivshti/status/1529474442622947328) by @Ivshti
-- [4337 Misconceptions](https://twitter.com/johnrising_/status/1619166915624112131) by [@John Rising](https://twitter.com/johnrising_)
-- [Bundler P2P Network](https://twitter.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://twitter.com/ch4r10t33r)
-- [Top ERC-4337 Bundlers](https://twitter.com/bl00dy1337/status/1691415580539039744) by [@Bloody](https://twitter.com/bl00dy1337)
+- [zkSync2.0 x Account Abstraction](https://x.com/zksync/status/1584924198907977728) by @zksync
+- [🧵Thread: The inevitable adoption of account abstraction ](https://x.com/Crypto__Jesus_/status/1606307436406636547) by @Crypto\__Jesus_
+- [why hasn't crypto taken off?](https://x.com/divine_economy/status/1605230807299543041) by @divine_economy
+- [The concept and dynamics of Abstraction Account(AA) development](https://x.com/0xYolo/status/1584447321147789317) by @0xYolo
+- [EIP-4337 Account Abstraction](https://x.com/_nishil_/status/1579550419944058880) by @_nishil_
+- [How to try to scam your scammer](https://x.com/0x_ARK/status/1553395019884535809) by @0x_ARK
+- [What exactly is AA, and what’s the use case there? A thread for beginners into AA 🧵](https://x.com/Mulan0x/status/1583813663986577408) by @Mulan0x
+- [decentralized fee market](https://x.com/VitalikButerin/status/1576199517434949634) by @VitalikButerin
+- [MPC vs smart contract wallets: comparison thread](https://x.com/Ivshti/status/1529474442622947328) by @Ivshti
+- [4337 Misconceptions](https://x.com/johnrising_/status/1619166915624112131) by [@John Rising](https://x.com/johnrising_)
+- [Bundler P2P Network](https://x.com/ch4r10t33r/status/1658443645215727618) by [@Partha](https://x.com/ch4r10t33r)
+- [Top ERC-4337 Bundlers](https://x.com/bl00dy1337/status/1691415580539039744) by [@Bloody](https://x.com/bl00dy1337)
 
 # Videos
 
@@ -125,7 +125,6 @@
 
 - [@runonflux/aa-schnorr-multisig-sdk](https://www.npmjs.com/package/@runonflux/aa-schnorr-multisig-sdk)
 - [0xpass/0xpass](https://github.com/0xpass/0xpass)
-- [aarc-xyz/aarc-sdk](https://github.com/aarc-xyz/aarc-sdk)
 - [alchemyplatform/aa-sdk](https://github.com/alchemyplatform/aa-sdk)
 - [AmbireTech/wallet-login-sdk](https://github.com/AmbireTech/wallet-login-sdk)
 - [AmbireTech/signature-validator](https://github.com/AmbireTech/signature-validator/)
@@ -136,6 +135,7 @@
 - [Dynamic w/ Zerodev](https://docs.dynamic.xyz/embedded-wallets/add-account-abstraction)
 - [eth-infinitism/bundler](https://github.com/eth-infinitism/bundler)
 - [etherspot/prime-sdk](https://github.com/etherspot/etherspot-prime-sdk)
+- [etherspot/modular-sdk](https://github.com/etherspot/etherspot-modular-sdk)
 - [getwax/wax](https://github.com/getwax)
 - [openfort-xyz/openfort-node](https://github.com/openfort-xyz/openfort-node)
 - [porco-rosso-j/zksync-account-trade-limit](https://github.com/porco-rosso-j/zksync-account-trade-limit)
@@ -147,7 +147,6 @@
 - [web3well/easy-web3](https://github.com/web3well/easy-web3)
 - [zerodevapp/sdk](https://github.com/zerodevapp/sdk)
 - [pimlico/permissionless.js](https://docs.pimlico.io/permissionless)
-- [stackup/userop.js](https://docs.stackup.sh/docs/useropjs)
 - [shakesco/userop.js](https://github.com/shakesco/shakesco-userop)
 - [shakesco/automation.js](https://www.npmjs.com/package/@shakesco/automation)
 
@@ -190,14 +189,11 @@
 
 - [Paymaster Playground](https://github.com/bcnmy/biconomy-paymasters) by Biconomy
 - [Python Implementation](https://github.com/candidelabs/Candide-Paymaster-RPC) by Candide
-- [Paymaster service](https://github.com/stackup-wallet/stackup-paymaster) by Stackup
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
-- [Paymaster contracts](https://github.com/stackup-wallet/contracts/blob/main/contracts/VerifyingPaymaster.sol) by Stackup
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
 
 ### Testing
-- [ERC-4337 Devnet](https://github.com/stackup-wallet/erc-4337-devnet) by Stackup
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 - [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
 
@@ -238,6 +234,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 - [0xPass](https://0xpass.io/)
 - [Aarc](https://aarc.xyz/)
+- [AAStar](https://aastar.io/)
 - [Alchemy](https://accountkit.alchemy.com/)
 - [Ambire](https://www.ambire.com)
 - [Argent](https://www.argent.xyz/)
@@ -253,18 +250,18 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Obvious](https://obvious.technology/)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
+- [Picnic](https://usepicnic.com/)
 - [Pimlico](https://www.pimlico.io)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
 - [Schnorr Multi Signature Accounts](https://github.com/RunOnFlux/account-abstraction)
 - [Shakespay](https://shakesco.netlify.app/)
 - [Solon Network](https://www.solon.network/)
-- [Soul Wallet](https://twitter.com/soulwallet_eth)
-- [Stackup](https://stackup.sh/)
+- [Soul Wallet](https://x.com/soulwallet_eth)
+- [Stackup](https://stackup.fi/)
 - [Squence](https://sequence.app/)
 - [thirdweb](https://thirdweb.com/)
 - [Timeless](https://timelesswallet.xyz)
-- [TrueWallet](https://true-wallet.io/)
 - [Unipass](https://www.unipass.id/)
 - [WalletKit](https://walletkit.com)
 - [ZeroDev](http://zerodev.app/)
@@ -273,13 +270,8 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 ### Explorers
 
 - [AA Explorer](https://aaexplorer.com/)
-- [DeCommas REST API (no UI)](https://build.decommas.io)
 - [Jiffyscan](https://app.jiffyscan.xyz/?selectedNetwork=mainnet)
 - [Blockscout](https://eth.blockscout.com/ops)
-
-### Debuggers
-
-- [Userop.dev](https://userop.dev/)
 
 ### Data dashboards
 
@@ -300,8 +292,8 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Twitter / Farcaster
 
-- [Official Twitter account for ERC-4337 Account Abstraction](https://twitter.com/erc4337)
-- [4337Mafia Twitter account](https://twitter.com/4337Mafia)
+- [Official Twitter account for ERC-4337 Account Abstraction](https://x.com/erc4337)
+- [4337Mafia Twitter account](https://x.com/4337Mafia)
 - [4337Mafia Farcaster account](https://warpcast.com/4337mafia)
 
 ### Discord
@@ -311,7 +303,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 
 ### Newsletters
 
-- [Everything About Account Abstraction](https://medium.com/etherspot/search?q=Everything+About+Account) by Etherspot
+- [All About Abstraction](https://medium.com/search?q=All+About+Abstraction) by Etherspot
 
 ### Research and technical forums
 
