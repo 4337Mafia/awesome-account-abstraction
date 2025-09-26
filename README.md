@@ -161,6 +161,7 @@
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Kriptonio](https://kriptonio.com)
+- [nani](https://github.com/NaniDAO/accounts)
 - [Openfort](https://github.com/openfort-xyz/openfort-contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
