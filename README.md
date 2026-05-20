@@ -190,6 +190,7 @@
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
+- [Seneschal Paymaster (multi-stablecoin ERC-20 paymaster live on Base, Chainlink-priced, MIT-licensed)](https://github.com/Rotwang9000/seneschal-paymaster) by Seneschal — [docs](https://docs.seneschal.space/paymaster.html)
 
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
