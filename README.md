@@ -246,6 +246,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Fluvi](https://fluvi.io/)
 - [Forum Wallet](https://forumdaos.com/)
 - [Kriptonio](https://kriptonio.com)
+- [Miras](https://miras.global/)
 - [Obvious](https://obvious.technology/)
 - [Openfort](https://openfort.xyz)
 - [Patch Wallet](https://app.patchwallet.com/)
