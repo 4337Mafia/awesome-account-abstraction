@@ -171,6 +171,10 @@
 - [TrueWallet](https://github.com/TrueWallet/contracts)
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
+### Examples
+
+- [LearnWeb3 - Build An Entire AA Wallet From Scratch](https://learnweb3.io/courses/account-abstraction-course/build-an-entire-aa-wallet-from-scratch)
+
 ### Bundlers
 
 - [Alto - Typescript Implementation](https://github.com/pimlicolabs/alto) by Pimlico
