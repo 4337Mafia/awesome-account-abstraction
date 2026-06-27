@@ -161,6 +161,7 @@
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
 - [Kriptonio](https://kriptonio.com)
+- [Limonata PasskeyAccount](https://github.com/Limonata-Blockchain/limonata-passkey-contracts) - Smart-account wallet that verifies WebAuthn/passkey (P-256) signatures on-chain via the RIP-7212 precompile.
 - [Openfort](https://github.com/openfort-xyz/openfort-contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
