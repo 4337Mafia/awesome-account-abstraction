@@ -47,6 +47,7 @@
 
 - [Account Abstraction EIP:2938 by Status](https://our.status.im/account-abstraction-eip-2938/)
 - [ERC 4337: account abstraction without Ethereum protocol changes by Vitalik](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+- [Using EIP-7702 wallet delegation for compromised-wallet recovery](https://allthingsweb3.com/resources/compromised-wallet-recovery-sweeper-bot-guide) - Explains sponsor-wallet recovery flows for swept EOAs across EVM chains.
 - [We should be moving beyond EOAs, not enshrining them even further (EIP 3074-related)](https://ethereum-magicians.org/t/we-should-be-moving-beyond-eoas-not-enshrining-them-even-further-eip-3074-related/6538)
 - [What is ERC-6492 and why it’s important for Account Abstraction](https://docs.zerodev.app/blog/erc-6492-and-why-its-important-for-aa)
 
