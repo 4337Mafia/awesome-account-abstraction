@@ -276,6 +276,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [account-abstraction](https://dune.com/niftytable/account-abstraction) by Kofi (niftytable)
 - [BundleBear](https://www.bundlebear.com/overview/all) by Kofi (niftytable)
 - [erc4337-mainnet](https://dune.com/suneal_eth/erc4337-mainnet) by Suneal (suneal_eth)
+- [OpenChainBench](https://openchainbench.com) - Independent benchmarks for RPC providers, L2 finality, and bundler-layer infrastructure that wallets depend on. Live latency rankings across major providers and 20+ chains.
 
 # Communities
 
