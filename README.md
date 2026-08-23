@@ -195,6 +195,7 @@
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 - [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
+- [account-abstraction-guard](https://github.com/dngr2/account-abstraction-guard) by dngr2 - Drop-in Foundry checks for ERC-4337 / 7702 account and paymaster footguns (ungated `execute`, unchecked UserOp signatures, unsafe paymasters), each shipping a correct and a deliberately-broken reference so the check is proven to catch the bug.
 
 ### Starknet
 
