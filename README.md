@@ -169,6 +169,7 @@
 - [Stackup](https://github.com/stackup-wallet/)
 - [thirdweb](https://thirdweb.com/explore/smart-wallet)
 - [TrueWallet](https://github.com/TrueWallet/contracts)
+- [VaultKeepR](https://github.com/VaultKeepR/vaultkeepr-public) - Zero-knowledge password manager whose identity layer is an ERC-4337 smart account; no email or account required, encrypted vault synced over IPFS.
 - [ZeroDev (Kernel)](https://github.com/zerodevapp/kernel)
 
 ### Bundlers
