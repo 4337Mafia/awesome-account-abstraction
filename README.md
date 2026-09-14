@@ -195,6 +195,7 @@
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 - [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
+- [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check) - Read-only post-revocation checks for Safe owners, modules, Allowance Module delegates, and token approvals.
 
 ### Starknet
 
