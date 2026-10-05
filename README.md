@@ -251,6 +251,7 @@ Projects using Account Abstraction (or variations of AA) in alphabetical order.
 - [Patch Wallet](https://app.patchwallet.com/)
 - [Picnic](https://usepicnic.com/)
 - [Pimlico](https://www.pimlico.io)
+- [Pistachio Fi](https://www.pistachio.fi)
 - [rhinestone](https://rhinestone.wtf)
 - [Safe](https://safe.global/)
 - [Solon Network](https://www.solon.network/)
