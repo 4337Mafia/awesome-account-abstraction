@@ -160,8 +160,8 @@
 - [Etherspot](https://github.com/etherspot/etherspot-prime-contracts)
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
-- [KYC Flows](https://www.kycflows.com) - Dated, screen-by-screen screenshots of embedded wallet, login and KYC sign-up flows (Privy, Dynamic, thirdweb, MetaMask Embedded, Crossmint, Didit), with pricing tracking.
 - [Kriptonio](https://kriptonio.com)
+- [KYC Flows](https://www.kycflows.com) - Dated, screen-by-screen screenshots of embedded wallet, login and KYC sign-up flows (Privy, Dynamic, thirdweb, MetaMask Embedded, Crossmint, Didit), with pricing tracking.
 - [Openfort](https://github.com/openfort-xyz/openfort-contracts)
 - [Patch Wallet](https://github.com/PaymagicXYZ/patch-base-account-contracts)
 - [Safe](https://github.com/safe-global/safe-contracts/)
