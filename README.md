@@ -191,6 +191,7 @@
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
    -[Tollbeam](https://tollbeam.com) - Multi-chain ERC-4337 paymaster aggregator with automatic routing, fallback, and unified billing across Optimism, Base, and Arbitrum.
+- [Central City paymaster](https://centralcity.ai/api/public/paymaster) - Unmodified VerifyingPaymaster v1.0.0 (EntryPoint v0.6) with its own bundler, sponsoring ERC-8004 registrations, ratings and payments on Base and Arc mainnet; operator code in [central-city-code](https://github.com/centralcity-ai-hq/central-city-code).
 
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
