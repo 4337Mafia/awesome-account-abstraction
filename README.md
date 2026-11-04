@@ -192,6 +192,8 @@
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
    -[Tollbeam](https://tollbeam.com) - Multi-chain ERC-4337 paymaster aggregator with automatic routing, fallback, and unified billing across Optimism, Base, and Arbitrum.
 
+- [Aether Paymaster](https://github.com/basantzp/aether-erc4337-paymaster) - Enterprise-grade ERC-4337 v0.7 paymaster supporting EIP-712 gas sponsorship and Chainlink oracle multi-token payments.
+
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
 - [ERC-4337 Detector in Wake Framework](https://ackee.xyz/blog/wake-erc-4337-detector/) by Ackee Blockchain Security
