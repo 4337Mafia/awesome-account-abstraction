@@ -157,6 +157,7 @@
 - [Biconomy](https://github.com/bcnmy/scw-contracts)
 - [BLS Wallet](https://github.com/web3well/bls-wallet/tree/main/contracts)
 - [Candide Wallet](https://github.com/candidelabs/CandideWalletContracts)
+- [Chainwall](https://github.com/okcontract/chainwall)
 - [Etherspot](https://github.com/etherspot/etherspot-prime-contracts)
 - [Forum Wallet](https://github.com/forumdaos/forum-contracts)
 - [Infinitism](https://github.com/eth-infinitism/account-abstraction)
