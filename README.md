@@ -79,7 +79,8 @@
 - [What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)
 - [Session Keys are the JWTs of Web3](https://docs.zerodev.app/blog/session-keys-are-the-jwts-of-web3)
 - [Combining Token Bound Accounts with Account Abstraction](https://www.openfort.xyz/blog/technical-dive-combining-token-bound-account-tba-with-account-abstraction-aa)
-
+- [UNSWEEP (EIP-7702 Diagnostic & Token Rescue)](https://unsweep.com)
+- 
 ### Twitter Threads
 
 - [zkSync2.0 x Account Abstraction](https://x.com/zksync/status/1584924198907977728) by @zksync
